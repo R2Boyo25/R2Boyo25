@@ -12,14 +12,12 @@ Languages: Python3, C++, PHP, HTML5, CSS3, JS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/R2Boyo25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14639101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/R2Boyo25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/HP7yM4AA6V)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=R2Boyo25)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=R2Boyo25)](https://github.com/ryo-ma/github-profile-trophy) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=R2Boyo25)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R2Boyo25)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=R2Boyo25)  
 
 ![GitHub metrics](https://metrics.lecoq.io/R2Boyo25)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=R2Boyo25)  
 
 ![Profile views](https://gpvc.arturio.dev/R2Boyo25)  
