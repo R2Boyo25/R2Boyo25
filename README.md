@@ -2,7 +2,7 @@
 #### (Or Kazani [The Avali])
 I like working on Flask web servers, and using Raspberry Pis
 
-Skills: Python3, C++, PHP, HTML5, CSS3, JS
+Languages: Python3, C++, PHP, HTML5, CSS3, JS
 
 - 🔭 I’m currently working on Raspi Repair 
 - 🌱 I’m currently learning C++ 
