@@ -1,17 +1,25 @@
+### Hi there 👋, my name is R2Boyo25
+#### (Or Kazani [The Avali])
+I like working on Flask web servers, and using Raspberry Pis
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=R2Boyo25&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R2Boyo25)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**R2Boyo25/R2Boyo25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Python3, C++, PHP, HTML5, CSS3, JS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Raspi Repair 
+- 🌱 I’m currently learning C++ 
+- 📫 How to reach me: Discord 
+- 😄 Pronouns: He/Him, They/Them 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/R2Boyo25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14639101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/R2Boyo25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/HP7yM4AA6V)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=R2Boyo25)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R2Boyo25)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=R2Boyo25)  
+
+![GitHub metrics](https://metrics.lecoq.io/R2Boyo25)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=R2Boyo25)  
+
+![Profile views](https://gpvc.arturio.dev/R2Boyo25)  
