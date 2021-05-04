@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is R2Boyo25
-#### (Or Kazani [The Avali])
 I like working on Flask web servers, and using Raspberry Pis
 
 Languages: Python3, C++, PHP, HTML5, CSS3, JS
