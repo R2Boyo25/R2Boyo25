@@ -5,8 +5,8 @@ Languages: Python3, C++, PHP, (HTML5, CSS3)\*, JS
 
 \*Not really programming languages
 
-- I’m currently working on AvalonPackageManager
-- I’m currently learning C++ 
+- I’m currently working on Mortar
+- I’m currently learning Rust
 - How to reach me: Discord 
 
 
