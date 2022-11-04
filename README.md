@@ -5,7 +5,7 @@ Languages: Python3, C++, PHP, (HTML5, CSS3)\*, JS, Rust
 
 \*Not really programming languages
 
-- I’m currently working on Mortar
+- I’m currently working on too much to list.
 - I’m currently learning Rust
 - How to reach me: Discord or Twitter
 
