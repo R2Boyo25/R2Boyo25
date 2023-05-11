@@ -1,12 +1,10 @@
 ### Hi there, my name is Kazani
 I like working on TUIs and using Raspberry Pis
 
-Languages: Python3, C++, PHP, (HTML5, CSS3)\*, JS, Rust
-
-\*Not really programming languages
+Languages: Python3, C++, Rust, PHP, HTML5, CSS3, JS
 
 - I’m currently working on too much to list.
-- I’m currently learning Rust
+- I’m currently learning how to use Rust effectively
 - How to reach me: Discord or Twitter
 
 
