@@ -14,6 +14,4 @@ Languages: Python3, C++, Rust, PHP, HTML5, CSS3, JS
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=R2Boyo25" />
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=R2Boyo25)  
-
 ![GitHub metrics](https://metrics.lecoq.io/R2Boyo25)  
